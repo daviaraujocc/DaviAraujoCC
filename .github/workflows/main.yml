@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
-          CREDLY_USER: davi-araujo-caetano-de-carvalho
+          CREDLY_USER:davi-araujo-caetano-de-carvalho
