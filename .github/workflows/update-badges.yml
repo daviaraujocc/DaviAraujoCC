@@ -10,4 +10,5 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
+          CREDLY_USER: davi-araujo-caetano-de-carvalho
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
