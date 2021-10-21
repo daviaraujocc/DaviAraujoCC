@@ -5,7 +5,7 @@
 - :earth_americas: Brazilian, 22 yr
 - 🔭 Currently working on Fortics as Cloud Analyst and support for Linux/Windows infrastructure
 - 🌱 Learning DevOps/SRE methods and Golang language
-- 👯 Currently creating katacoda scenarios and giving collaborate for the community Linux Sem Fronteiras
+- 👯 Currently creating katacoda scenarios and giving collaboration for the community Linux Sem Fronteiras
 
 
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/694010a5-97a4-4d9a-ad30-e7814a55213f "CKA: Certified Kubernetes Administrator")
