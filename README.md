@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviaraujocc/)
 
 - :earth_americas: Brazilian, 22 yr
-- 🔭 Currently working on Fortics as Cloud Analyst and support for Linux/Windows infrastructure
-- 🌱 Learning DevOps/SRE methods and Golang language
+- 🔭 Currently working as DevOps Engineer and support for Linux/Windows infrastructure
+- 🌱 Learning DevOps/SRE methods, NodeJS and Golang language
 - 👯 Currently creating katacoda scenarios and giving collaboration for the community Linux Sem Fronteiras
 
 
