@@ -3,7 +3,7 @@
 - :earth_americas: Brazilian, 24 yr
 - 🔭 Currently working as DevOps Engineer and support for Linux/Windows infrastructure.
 - 🌱 Learning DevOps/SRE methods, Rust and golang.
-- 🤖 Learning MLOps and Machine learning w/ Tensorflow.
+- 🤖 Learning MLOps and Machine learning w/ Pytorch.
 - 👯 Currently creating killercoda scenarios and giving collaboration for the community Linux Sem Fronteiras
 
 
